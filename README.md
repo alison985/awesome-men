@@ -6,6 +6,7 @@ Men are listed in order discovered.
 
 |GitHub Username|Example of Awesomeness|Notes
 |---------------|-------|-----
+|[@jmmastey](https://github.com/jmmastey)|https://github.com/jmmastey/level_up/blob/master/CODE_OF_CONDUCT.md|
 |[@pcbro](https://github.com/pcbro)|https://github.com/apple/swift/pull/165|
 |[@gcaprio](https://github.com/gcaprio)|https://github.com/eldest-daughter/ed-questionnaire/blob/master/CODE_OF_CONDUCT.md|
 |[@Lukasa](https://github.com/lukasa)|https://github.com/kennethreitz/requests/issues/2941|
