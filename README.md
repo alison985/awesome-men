@@ -1,6 +1,8 @@
 # awesome-men
 Listing men who are awesome to provide acknowledgement of them and hope for people who don't have any awesome men around them.
 
+To be clear, awesome in this case is defined by speaking up against sexism, racism, heterosexism, and/or other -isms. Sometimes that's as simple as a code of conduct but most of the time it means calling in or calling out people who take *-ist actions.
+
 Men are listed in order discovered.
 
 
